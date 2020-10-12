@@ -23,6 +23,7 @@
 <p><i>There are some cute, elegant restaurants spotted around where you can people-watch as you sip on a glass of champagne or plan which window-shopping activities you're going to complete next.</i></p>
 
 <h1><strong>Universal Studios</strong></h1>
+<h3>https://www.universalstudioshollywood.com/web/en/us</h3>
 <p>Universal Studios has made a name for itself as one of the best theme parks to ever go to. They keep a balance of thrill and enjoyment when it comes to food and rides. Universal brings the worlds we love to life like Jurrasic World and the Harry Potter World. It may not have the giant death-defying rides that Knott's Berry Farm has but is certainly one of the best theme parks to be. Not to mention they sell giant donuts.</p>
 
 <h2>Reviews</h2>
