@@ -8,7 +8,7 @@
 <body>
 <h1><strong>VENICE BEACH</strong></h1>
 <p>If you're in the mood for a little bit of swimming and making sandcastles, then Venice Beach is the place for you. In all of Los Angeles, this beach is truly the most beautiful when it come down to it. Whether it be a nice stroll or riding the waves on a surfboard. Venice Beach has made a name for itself with the eye-catching sunset and the perefect blue sea. </p>
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.visitcalifornia.com%2Fexperience%2F5-amazing-things-do-venice-beach%2F&psig=AOvVaw0G1cwwAR76gPRq8ZFNyoRu&ust=1602580734163000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKC5-M7cruwCFQAAAAAdAAAAABAD"/>
+  <img src="https://www.visitcalifornia.com/sites/default/files/styles/welcome_image/public/VC_California101_VeniceBeach_Stock_RF_638340372_1280x640.jpg" alt="5 Great Ways to Stay, Eat and Play in Venice Beach"/>
 
 <h2>Reviews</h2>  
   
