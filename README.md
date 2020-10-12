@@ -2,7 +2,7 @@
 
 <html>
 <head>
-<title>Tourist Destinations in LA
+  <title>Tourist Destinations in LA</title>
 </head>
 
 <body>
