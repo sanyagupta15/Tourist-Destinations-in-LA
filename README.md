@@ -26,7 +26,7 @@
 <h1><strong>Universal Studios</strong></h1>
 <h3>https://www.universalstudioshollywood.com/web/en/us</h3>
 <p>Universal Studios has made a name for itself as one of the best theme parks to ever go to. They keep a balance of thrill and enjoyment when it comes to food and rides. Universal brings the worlds we love to life like Jurrasic World and the Harry Potter World. It may not have the giant death-defying rides that Knott's Berry Farm has but is certainly one of the best theme parks to be. Not to mention they sell giant donuts.</p>
-<img src="https://www.welikela.com/wp-content/uploads/2018/10/wizarding-world-harry-potter-universal-studios-hollywood.jpg" alt="38 Awesome Things To Do This Weekend in L.A. [4-12-2019 to 4-14-2019]"/>
+<img src="https://i.pinimg.com/originals/5a/bd/df/5abddfe7eea040b022a645edfc03923e.jpg" alt="Krustyland | Universal studios food, Universal studios orlando rides,  Universal parks"/>
 
 <h2>Reviews</h2>
 
