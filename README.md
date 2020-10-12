@@ -24,6 +24,9 @@
 
 <h1><strong>Universal Studios</strong></h1>
 <p>Universal Studios has made a name for itself as one of the best theme parks to ever go to. They keep a balance of thrill and enjoyment when it comes to food and rides. Universal brings the worlds we love to life like Jurrasic World and the Harry Potter World. It may not have the giant death-defying rides that Knott's Berry Farm has but is certainly one of the best theme parks to be. Not to mention they sell giant donuts.</p>
+
+<h2>Reviews</h2>
+
 <p><i>We have wanted to come for many years, many friends explained to us how it works, it was amazing, beautiful unforgettable, what a beauty.</i></p>
 <p><i>Went last summer with family - long queues but expected and well worth the wait. Loved every bit of it, especially the The World-Famous Studio Tour where you actually get to see a real movie set as well as how they do special effects!</i></p>
 
